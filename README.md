@@ -1,6 +1,6 @@
-<h2 align="left"> Hello! My names is Mayk Oliveira and i'm a Computer Science Student!
+<h2 align="left"> Olá👋! Meu nome é Mayk!
  </h2>
-<p>I am a Computer Science student, always seeking new knowledge and opportunities to enhance my skills. I am deeply dedicated to studies and practical projects, combining a curious and proactive mindset with a strong commitment to innovation and continuous development. As an enthusiast and self-learner, I am constantly exploring new technologies and challenges in the field of computer science.</p>
+<p> Sou estudante de Ciência da Computação, sempre buscando novos conhecimentos e oportunidades para aprimorar minhas habilidades. Sou profundamente dedicado a estudos e projetos práticos, combinando uma mentalidade curiosa e proativa com um forte comprometimento com a inovação e o desenvolvimento contínuo. Como um entusiasta e autodidata, estou constantemente explorando novas tecnologias e desafios no campo da ciência da computação.</p>
 
 
 <div align="center">
